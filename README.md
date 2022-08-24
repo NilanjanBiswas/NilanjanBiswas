@@ -41,7 +41,7 @@
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<a height="273em" src="https://www.hackerrank.com/avro_niil09"> Hacker Rank </a>
+<a href="https://www.hackerrank.com/avro_niil09">Hacker Rank</a>
 </p>
 
 
