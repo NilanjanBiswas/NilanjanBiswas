@@ -3,7 +3,7 @@
 <p align="left">
 
   <a href="https://github.com/NilanjanBiswas?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/niloy-oct?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/NilanjanBiswas?color=green&logo=github">
   </a>
   <a href="https://github.com/NilanjanBiswas/">
     <img src="https://komarev.com/ghpvc/?username=NilanjanBiswas" alt="visitors" />
