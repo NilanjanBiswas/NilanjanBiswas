@@ -14,8 +14,8 @@
 #### Now
 
 - ✨ Contributing to [->KPI<-](https://github.com/MohyminulIslam/KPI);
-- 😍 Interested in Software Development and SAP ABAP;
-- :eyes: Looking for contributing to .NET/.NET Core based open source projects. 
+- 😍 Interested in Software Development,Data Warehousing and ETL Development;
+- :eyes: Looking for contributing to .NET MVC/.NET Core and T-SQL based open source projects. 
 
 #### Bio
 
