@@ -13,7 +13,7 @@
 
 #### Now
 
-- ✨ Contributing to [->KPI Management<-](https://github.com/MohyminulIslam/KPI) And [->Market Aduit Researchs Cell (MARC) Reporting Software <-]([https://github.com/NilanjanBiswas/MARC_Version_2.0]) ;
+- ✨ Contributing to [->KPI Management<-](https://github.com/MohyminulIslam/KPI) And [->Market Aduit Researchs Cell (MARC) Reporting Software <-](https://github.com/NilanjanBiswas/MARC_Version_2.0) ;
 - 😍 Interested in Software Development,Data Warehousing and ETL Development;
 - :eyes: Looking for contributing to .NET MVC/.NET Core and T-SQL based open source projects. 
 
