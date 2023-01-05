@@ -20,10 +20,10 @@
 #### Bio
 
 - 🏢 I'm currently working at [HPL](https://www.hplbd.com/)
-- ⚙️ I use daily: `.cs`, `.js`, `.sql`, `.py`
+- ⚙️ I use daily: `.cs`, `.js`, `.sql`, `.cshtml`
 - 🌍 I'm mostly active within the **.NET Community**
-- 🌱 Learning all about **SAP-ABAP**
-- 💬 Ping me about **C#**, **ASP.NET MVC**, **ASP.NET Core**, **Javascript**, **MSSQL SERVER**
+- 🌱 Learning all about *REST API*,*Software Development*,*Version Control*,*Angular*,*SAP-ABAP*
+- 💬 Ping me about **C#**, **ASP.NET MVC**, **ASP.NET Core**, **Javascript**, **MSSQL SERVER**,**JQuery**,**AJAX**
 - 📫 Reach me: [linkedin.com/in/nilanjan-biswas](https://www.linkedin.com/in/nilanjan-biswas-1744901a5/)
 - 📝 Checkout my [Resume](files/Nilanjan's Resume_8_22.pdf).
 
